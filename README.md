@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Likhit Budwal</h1>
-<h3 align="center">A skilled and dedicated IT professional with 3+ years of experience in full stack application development</h3>
+<h3 align="center">A skilled and dedicated IT professional with 3+ years of experience in Full Stack Application Development</h3>
 
-- 👯 I’m looking to collaborate on **Any ReactJS or .NET Project**
+- 👯 I’m looking to collaborate on **Any ReactJS, .NET Project or any other latest tech**
 
 - 📫 How to reach me **lbudwal6@gmail.com**
 
